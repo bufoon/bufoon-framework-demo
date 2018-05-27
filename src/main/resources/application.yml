@@ -102,7 +102,7 @@ bufoon:
       http-anti-steal-token: false
       http-secret-key: FastDFS-1
       http-tracker-http-port: 80
-      tracker-servers: 192.168.31.128:22122
+      tracker-servers: 122.152.229.151:22122
 server:
   port: 8081
 logging:
